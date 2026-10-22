@@ -12,7 +12,6 @@ docker compose ps
 
 - API Swagger: http://localhost:8000/docs
 - RabbitMQ UI: http://localhost:15674 (guest / guest)
-- Uses internal Docker RabbitMQ networking; **does not conflict** with your existing RabbitMQ on ports 5673/15673.
 
 ## Tests
 
